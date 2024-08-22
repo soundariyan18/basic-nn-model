@@ -145,4 +145,4 @@ ai.predict(X_n1_1)
 
 ## RESULT
 
-Include your result here
+Thus a Neural network for Regression model is Implemented sucessfully.
