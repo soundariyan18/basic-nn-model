@@ -91,7 +91,7 @@ print('The predicted output : ',a)
 
 
 ## Dataset Information
-!{image}(https://github.com/soundariyan18/basic-nn-model/blob/main/out.1.png)
+!{image}(out.1.png)
 
 
 
