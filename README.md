@@ -91,22 +91,27 @@ print('The predicted output : ',a)
 
 
 ## Dataset Information
-![Screenshot 2024-08-19 151204](https://github.com/user-attachments/assets/9caf09c2-ee46-43f2-b64d-8b8ddea04356)
+https://github.com/soundariyan18/basic-nn-model/blob/main/out.1.png
 
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![Screenshot 2024-08-19 151236](https://github.com/user-attachments/assets/cc6905ad-aa76-49c7-9020-db4571fa9b78)
+https://github.com/soundariyan18/basic-nn-model/blob/main/out.2.png
+
+## Epoch
+https://github.com/soundariyan18/basic-nn-model/blob/main/out.3.png
 
 
 ### Test Data Root Mean Squared Error
-![Screenshot 2024-08-19 153301](https://github.com/user-attachments/assets/4da39e9f-f197-46e1-bddc-3038e03cd4b7)
+https://github.com/soundariyan18/basic-nn-model/blob/main/out.4.png
+
 
 
 ### New Sample Data Prediction
-![Screenshot 2024-08-19 153255](https://github.com/user-attachments/assets/71b2fc35-0cfc-41a7-8881-0f2e239bf4d2)
+https://github.com/soundariyan18/basic-nn-model/blob/main/out.5.png
+
 
 
 ## RESULT
