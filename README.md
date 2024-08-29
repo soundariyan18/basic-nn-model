@@ -91,7 +91,7 @@ print('The predicted output : ',a)
 
 
 ## Dataset Information
-!{image}("out.1.png")
+![image]("out.1.png")
 
 
 
