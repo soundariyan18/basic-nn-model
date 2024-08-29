@@ -98,19 +98,19 @@ print('The predicted output : ',a)
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-https://github.com/soundariyan18/basic-nn-model/blob/main/out.2.png
+![image](https://github.com/soundariyan18/basic-nn-model/blob/main/out.2.png)
 
 ## Epoch
-https://github.com/soundariyan18/basic-nn-model/blob/main/out.3.png
+![image](https://github.com/soundariyan18/basic-nn-model/blob/main/out.3.png)
 
 
 ### Test Data Root Mean Squared Error
-https://github.com/soundariyan18/basic-nn-model/blob/main/out.4.png
+![image](https://github.com/soundariyan18/basic-nn-model/blob/main/out.4.png)
 
 
 
 ### New Sample Data Prediction
-https://github.com/soundariyan18/basic-nn-model/blob/main/out.5.png
+![image](https://github.com/soundariyan18/basic-nn-model/blob/main/out.5.png)
 
 
 
